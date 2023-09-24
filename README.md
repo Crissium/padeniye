@@ -2,6 +2,8 @@
 
 I discovered this project when I was cleaning up my old files. I wrote this game in May 2022, when I was a first-year university student. Much of the code was adapted from Gnome's _Quadrapassel_, and the style is not good. But it indeed works and works well, its AI beating that of KDE's Tetris clone by a very large margin. Anyway, it is an interesting project, so I decided to clean it up a little, removing some hard-coded media paths and silly Russian sentences (the commissar shoots you upon failure :), and publish it here.
 
+![demo](/demo.gif)
+
 ---
 
 # Description
