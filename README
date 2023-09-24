@@ -22,7 +22,6 @@ __Special Feature__: AI, quite short-sighted, though.
 
 ```
 $ make
-# make install # install with this command
 ```
 
 This game depends on SFML 2.5 and you need a C++17-compliant compiler to build.
